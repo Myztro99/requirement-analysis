@@ -55,6 +55,14 @@ Security: Ensure data encryption, secure login, and protect against common vulne
 Scalability: The system should be able to scale horizontally to handle increased traffic.
 Usability: The application should have an intuitive UI/UX, making it easy for users to navigate and perform tasks.
 Reliability: The system should have an uptime of 99.9% and recover quickly from any failures.
+# Use case diagrams
+A use case diagram is a graphical representation of a system's functionality and the interactions between it's users and the system itself. Benefits of use case diagrams are as follows.
+1.Visualization functionality: They provide a clear, high level picture of the system does and how users will interact with it.
+2.Define scope: They help communicate and define boundaries and functional requirements of a project to all stake holders.
+3.Model goals: They are useful for representing the goals of both the system and its users.
+4.Identify interactions: They show how different actors can use the same funtion, clarifying relationships within the system.
+<img width="812" height="586" alt="alx booking uc drawio" src="https://github.com/user-attachments/assets/1996efcd-420a-46aa-9deb-e161822ef465" />
+
 # Acceptance Criteria 
 Objective: Establishing clear criteria for feature completion.
 
